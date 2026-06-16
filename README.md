@@ -16,8 +16,8 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-wget -O README.sh "https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoom/Arcade-Google-Cloud-Labs/refs/heads/main/bef186e9a94994c2348feed15e3904deaa0b5b06/README.sh"
-sed -i 's/\r$//' README.sh
+wget -O README.sh "https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoom/refs/heads/main/README.sh"
+sed -i 's/\r$//' README.sh 
 chmod +x README.sh
 bash README.sh
 ```
